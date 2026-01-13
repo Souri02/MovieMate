@@ -1,0 +1,14 @@
+numpy
+pandas
+nltk
+scikit-learn
+scipy
+matplotlib
+seaborn
+gensim
+textblob
+wordcloud
+sentence-transformers
+missingno
+streamlit
+difflib
